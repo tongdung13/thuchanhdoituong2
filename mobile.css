@@ -1,0 +1,14 @@
+
+
+input {
+    width: 148px;
+}
+
+h1 {
+    left: 12px;
+}
+
+fieldset {
+    width: 160px;
+    display: inline-block;
+}

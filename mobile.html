@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="mobile.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="mobile.js"></script>
+
+</head>
+<body>
+    <fieldset>
+    <div class="Mobile">
+        <h1 id="iphone-name">Iphone</h1>
+        <textarea id="iphone-inbox" cols="30" rows="10" placeholder="inbox"></textarea><br>
+        <textarea id="iphone-outbox" cols="30" rows="10" placeholder="outbox"></textarea><br/>
+        <input type="text" placeholder="senMsg"></textarea>
+        <button type="button" onclick="senMass()">Senmass</button>
+    </div>
+</fieldset>
+<fieldset>
+    <div class="Mobile">
+        <h1 id="iphone-name">Nokia</h1>
+        <textarea id="iphone-inbox" cols="30" rows="10" placeholder="inbox"></textarea><br>
+        <textarea id="iphone-outbox" cols="30" rows="10" placeholder="outbox"></textarea><br/>
+        <input type="text" placeholder="senMsg"></textarea>
+        <button type="button" onclick="senMass()">Senmass</button>
+    </div>
+</fieldset>
+    <script>
+        let iphone = new Mobile("ihone 12 pro Max", "Iphone");
+        let nokia = new Mobile("Nokia 3120", "Nokia");
+        function sen(mobile) {
+            document.getElementById(iphone);
+        }
+    </script>
+</body>
+</html>

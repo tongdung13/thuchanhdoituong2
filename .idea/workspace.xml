@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49c7c15-8e7e-41e1-9690-6c978f0dc5c6" name="Default Changelist" comment="" />
+    <list default="true" id="b49c7c15-8e7e-41e1-9690-6c978f0dc5c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jB75OfV1dY72zAUsV85nvzj90h" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,11 +40,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603265446787</updated>
-      <workItem from="1603265448179" duration="1068000" />
+      <workItem from="1603265448179" duration="1397000" />
+      <workItem from="1603348273167" duration="124000" />
+      <workItem from="1603369839129" duration="525000" />
+      <workItem from="1603373636935" duration="16000" />
+      <workItem from="1603435272465" duration="77000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="131" key="FileChooserDialogImpl" timestamp="1603266852755">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="738" y="131" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1603266852755" />
   </component>
 </project>
